@@ -48,15 +48,12 @@ Ce framework est fourni à des fins de **recherche en cybersécurité et de test
 
 *Developed by Omega Security Labs - 2026*
 
-Zip - Compilator
 
 <img width="890" height="728" alt="comp" src="https://github.com/user-attachments/assets/4dd2d22c-3f47-4de3-a364-e9145fa35174" />
 
-Binder 
 
 <img width="893" height="730" alt="binder" src="https://github.com/user-attachments/assets/2f5bc436-502a-4c60-a844-3f456de5c2cc" />
 
-Builder - Fud
 
 <img width="920" height="867" alt="builder" src="https://github.com/user-attachments/assets/1f3f7a84-2fb4-479b-8bbb-d48e6158707a" />
 
